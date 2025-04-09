@@ -25,9 +25,9 @@ author:
   avatar           : "WW1.jpg"
   name             : "Wei Wan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Huazhong University of Science and Techology"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Wuhan"
+  employer         : "HUST"
   uri              : # URL
   email            : "wanwei_0303@hust.edu.cn" 
 
